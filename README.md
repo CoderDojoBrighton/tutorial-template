@@ -32,8 +32,8 @@ your-project
 |  ├─ docs/
 |  |  ├─ section-1/
 |  |  |  ├─ _index.md - Secion 1 contents. Defines sidebar settings
-|  |  |  ├─ 
-|  |  |  |  ├─ _index.md - Content for project-name 
+|  |  |  ├─ topic-1
+|  |  |  |  ├─ _index.md - Content for topic-1
 ```
 
 Hugo uses [Markdown](https://www.markdownguide.org/basic-syntax/).
