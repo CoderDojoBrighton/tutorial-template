@@ -14,5 +14,5 @@ You can use Markdown to add an image:
 
 For example:
 
-![Test image](/your-project/section-name/test.png)
+![Test image](/tutorial-template/section-name/test.png)
 

@@ -1,4 +1,4 @@
-baseURL = 'https://coderdojobrighton.github.io/your-project'
+baseURL = 'https://coderdojobrighton.github.io/tutorial-template'
 title = 'Your Project'
 theme = "hugo-book"
 
@@ -9,7 +9,7 @@ theme = "hugo-book"
 [menu]
 [[menu.after]]
     name = "Browse Code"
-    url = "https://github.com/CoderDojoBrighton/your-project"
+    url = "https://github.com/CoderDojoBrighton/tutorial-template"
     weight = 10
 
 # See details at https://github.com/alex-shpak/hugo-book
